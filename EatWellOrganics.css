@@ -1,0 +1,385 @@
+body{
+	margin: 0px;
+	background-color: #00a86b;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	/*background: url('Images/backgroundorganic.jpg');*/
+	background-size: 10% 10%;
+	/*background-size: contain;
+	background-position: center;
+	background-attachment: fixed;*/
+}
+.main_bg{
+	height: auto;
+	width: auto;
+
+}
+.fstdiv{
+	width: 100%;
+	height: 200px;
+	background-color:;
+}
+.scnddiv{
+	background: url(Images/Topbackground.jpg);background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+	z-index: 10;
+	position: relative;
+
+}
+.scnddiv .logo_div{
+	background: url('Images/EatWell Logo.png');background-repeat: no-repeat;
+	background-size: contain;
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+#first_sec{
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	/*margin-left: 150px;*/
+	margin-top: -300px;
+	padding: 0px;
+
+}
+.empty_div{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+}
+.title{
+	padding-top: 10%;
+	padding-left: 10%;
+	padding-right:10%;
+	font-family:"raleway", Tahoma;
+	color: #444c37;
+}
+.home_bg_image_frm{
+	width:100%;
+	height: 800px;
+	position: relative;
+
+}
+.home_bg_image_frm .home_bg_image{
+	width: 80%;
+	height: 630px;
+	border: 3px solid #444c37;
+	background-color: ;	
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+	object-fit: cover;
+	align-items: center;
+}
+img{
+	object-fit: contain;
+	width:100%;
+	height:600px;
+	padding-top: 3%;
+	margin: 0px;
+	opacity: ;
+}
+.title_BG{
+
+	background-size: cover;
+	width: 100%;
+	height: 300px;
+	padding: 0px;
+}
+#products_sectn{
+	background-color: white;
+	width: 100%;
+	height: 900px;
+}
+.prd_hdr{
+	text-align: center;
+}
+.prd_txt{
+	font-family:"raleway extrabold", Tahoma;
+	color: #444c37;
+	margin-bottom: 80px;
+}
+.oil_prds_container{
+	padding-right: 10%;
+	padding-left: 10%;
+	margin-top: 100px;
+}
+.oil_cards_cntnr{
+
+	width: auto;
+	height: auto;
+	padding-right: 10%;
+	padding-left: 10%;
+	margin: 0px	;
+}
+#Card_size{
+ padding: 0px;
+ margin: 0px;
+}
+#card_BG{
+	height: 200px;
+	width: 80%;
+	/*background-color: #F6F6F6;*/
+	background-color: #F6F6F6;
+	text-align: center;
+}
+.card-text{
+	padding-top: 12px;
+}
+.card-text_long{
+	padding-top: 0px;
+}
+.Safflower_oil{
+	background: url('Images/safflower.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.card-text{
+
+}
+.groundnut1{
+	background: url('Images/groundnut1.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;	
+}
+.mustard{
+	background: url('Images/mustard.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.sesame{
+	background: url('Images/sesame.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.coconut{
+	background: url('Images/coconut.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}	
+.space{
+	height: 100px;
+}
+.title_gap{
+	margin-bottom: 40px;
+}
+.brown_rice{
+	background: url('Images/brown rice.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.brownsugar{
+	background: url('Images/brownsugar.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.millets{
+	background: url('Images/millets.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.pulses{
+	background: url('Images/pulses.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.redchillipowder{
+	background: url('Images/redchillipowder.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.turmericpowder{
+	background: url('Images/turmericpowder.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.pinksalt{
+	background: url('Images/pinksalt.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;	
+}
+.corianderwhole{
+	background: url('Images/corianderwhole.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.flaxseeds{
+	background: url('Images/flaxseeds.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.oats1{
+	background: url('Images/oats1.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;	
+}
+.oats2{
+	background: url('Images/oats2.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.oats3{
+	background: url('Images/oats3.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.oats4{
+	background: url('Images/oats4.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.oats5{
+	background: url('Images/oats5.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.Buffalo_ghee{
+	background: url('Images/Buffalo ghee.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.cow_ghee{
+	background: url('Images/cow ghee.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.butter{
+	background: url('Images/butter.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.cream{
+	background: url('Images/cream.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+}
+.RawHoney{
+	background: url('Images/RawHoney.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%
+}
+.moringaleaves{
+	background: url('Images/moringaleaves.jpg');background-repeat: no-repeat;
+	background-size: cover;
+	height: 120px;
+	width: 100%
+}
+#mp_card_BG{
+	height: 200px;
+	width: 85%;
+	background-color: #F6F6F6;
+	text-align: center;	
+}
+.more_prdts{
+	background-size: cover;
+	height: 120px;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+#linkscolour{
+	color: #444c37;
+}
+#fst_lst_name{
+	width: 100%;
+}
+#fst_nm{
+	border: none;
+	border-color: gray;
+	background-color: #F6F6F6;
+}
+#lst_nm{
+	border: none;
+	border-color: gray;
+	background-color: #F6F6F6;
+}
+#email_cmnt_butn{
+	margin-top: 12px;
+}
+#e_ml{
+	border: none;
+	border-color: gray;
+	background-color: #F6F6F6;	
+}
+#cmnt{
+	height: 80px;
+	border: none;
+	border-color: gray;
+	background-color: #F6F6F6;
+	resize: none;
+	margin-top: 12px;
+}
+#sbmt_btn{
+	margin-top: 12px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 50px;
+	background-color: #F6F6F6;
+	border: none;
+	color: #444c37;
+}
+.cnt_card{
+	text-align: center;
+	height: 300px;
+	width: 100%;
+	position: relative;
+}
+.cnt_card .cnt_card_content{
+	position: absolute;
+	height: 300px;
+	width: 80%; 
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+.para_text{
+	font-family:"raleway", Tahoma;
+	color: #444c37	
+}
+.add_gap{
+	margin-top: 20px;
+}
+img{
+	width: 50px;
+	height: 50px;
+}
+.social_media{
+	margin-bottom: 100px;
+}
